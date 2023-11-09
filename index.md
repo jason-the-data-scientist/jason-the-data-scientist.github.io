@@ -4,12 +4,11 @@ layout: default
 
 [Link to another page](./another-page.html).
 
+# Resume
 
-# About
+## About
 
 Data scientist with over 4 years of experience using machine learning tools, implementing statistical models, and communicating results to make data-driven decisions
-
-# Resume
 
 ## Experience
 
