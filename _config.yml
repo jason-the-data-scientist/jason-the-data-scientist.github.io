@@ -3,4 +3,4 @@ logo: Profile.jpg
 description: GitHub page for Jason Colgrove
 show_downloads: true
 google_analytics:
-
+theme: jekyll-theme-minimal
