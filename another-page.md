@@ -4,6 +4,7 @@ layout: default
 
 ## Welcome to another page
 
-_yay_
+Git Hub Projects: https://github.com/jason-the-data-scientist/project_examples
+LinkedIn: https://www.linkedin.com/in/jason-colgrove/
 
 [back](./)
