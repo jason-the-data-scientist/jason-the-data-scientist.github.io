@@ -2,9 +2,11 @@
 layout: default
 ---
 
-## Welcome this page!##
+## Welcome to this page!
 
-**Git Hub Projects:** https://github.com/jason-the-data-scientist/project_examples
-**LinkedIn:** https://www.linkedin.com/in/jason-colgrove/
+**Git Hub Projects:** 
+  * https://github.com/jason-the-data-scientist/project_examples
+**LinkedIn:**
+  * https://www.linkedin.com/in/jason-colgrove/
 
 [back](./)
