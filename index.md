@@ -7,10 +7,10 @@ layout: default
 
 # About
 
-Data scientist with over 4 years of experience using machine learning tools, implementing statistical models, communicating results to make data-driven decisions
+Data scientist with over 4 years of experience using machine learning tools, implementing statistical models, and communicating results to make data-driven decisions
 
 # Resume
-**## Experience**
+## Experience
 * Data Scientist - Allstate (June 2022-Present)
   * Research and development of models for quality assurance of auto claims processes
   * Contributed to an auto claims project that had a projected savings of $5M+ a year
@@ -30,14 +30,14 @@ Data scientist with over 4 years of experience using machine learning tools, imp
   * Mentored university students in statistical theory targeted to individual learning
 
 
-**## Education**
+## Education
 * Master of Science: Statistics (Aug 2020 – May 2022)
   * Texas A&M University - College Station, TX
 * Bachelor of Science: Statistics (Aug 2016 – April 2020)
   * Brigham Young University - Provo, UT 
 
 
-**## Skills**
+## Skills
 * Python
 * R
 * SQL
@@ -48,7 +48,7 @@ Data scientist with over 4 years of experience using machine learning tools, imp
 * Linux
 * Git
 
-**## Awards and Honors**
+## Awards and Honors
 * Excel and data visualization case competition winner
 * Authored and published a paper on statistical methods used for auto insurance modeling
 * Graduated with University Honors (1 of 39 students)
