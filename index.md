@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to another page]([./another-page.html](https://github.com/jason-the-data-scientist/project_examples)).
+[Link to another page]([./another-page.html]).
 
 
 # About
