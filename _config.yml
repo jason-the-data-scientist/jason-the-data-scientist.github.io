@@ -1,6 +1,6 @@
 title: Jason Colgrove
 logo: Profile.jpg
 description: GitHub page for Jason Colgrove
-show_downloads: true
+show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+
