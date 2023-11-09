@@ -12,7 +12,7 @@ Data scientist with over 4 years of experience using machine learning tools, imp
 # Resume
 ## Experience
 
-**Data Scientist - Allstate (June 2022-Present)**
+**Data Scientist** - Allstate (June 2022-Present)
   * Research and development of models for quality assurance of auto claims processes
   * Contributed to an auto claims project that had a projected savings of $5M+ a year
   * Develop analytical solutions to support the requirements of stakeholders
