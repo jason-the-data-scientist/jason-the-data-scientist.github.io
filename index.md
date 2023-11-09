@@ -17,8 +17,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Resume
 ### Experience
-*Data Scientist - Allstate 
-  *
+* Data Scientist - Allstate 
+  * test
 
 
 ### Education
